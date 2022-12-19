@@ -12,6 +12,7 @@ git pull origin dev
 # git branch <name>
 git checkout sakatoku
 git pull origin sakatoku
+git merge dev
 ```
 
 作業後
